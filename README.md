@@ -1,5 +1,4 @@
-# About_me_Anita
-Hi, let me introduce myself:
+# Hi, let me introduce myself:
 
 👋 Hi, I'm Anita — a data enthusiast with a background in engineering and over six years of experience in the non-IT sector. My journey into data began with a curiosity for understanding customer behavior and solving real-world problems through insights.
 
